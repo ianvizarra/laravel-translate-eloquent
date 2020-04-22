@@ -1,6 +1,6 @@
 <?php
 
-namespace igaster\TranslateEloquent\Tests;
+namespace IanVizarra\TranslateEloquent\Tests;
 
 use Illuminate\Support\Facades\DB;
 

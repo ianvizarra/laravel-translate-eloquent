@@ -1,4 +1,4 @@
-<?php namespace igaster\TranslateEloquent;
+<?php namespace IanVizarra\TranslateEloquent;
 
 class Translations
 {

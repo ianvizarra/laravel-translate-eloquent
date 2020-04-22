@@ -1,6 +1,6 @@
 <?php
 
-namespace igaster\TranslateEloquent\Tests\App;
+namespace IanVizarra\TranslateEloquent\Tests\App;
 
 use Illuminate\Database\Eloquent\Model as Eloquent;
 

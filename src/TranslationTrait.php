@@ -1,4 +1,4 @@
-<?php namespace igaster\TranslateEloquent;
+<?php namespace IanVizarra\TranslateEloquent;
 
 use Illuminate\Database\Eloquent\Collection;
 

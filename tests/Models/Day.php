@@ -1,8 +1,8 @@
 <?php
 
-namespace igaster\TranslateEloquent\Tests\Models;
+namespace IanVizarra\TranslateEloquent\Tests\Models;
 
-use igaster\TranslateEloquent\TranslationTrait;
+use IanVizarra\TranslateEloquent\TranslationTrait;
 use Illuminate\Database\Eloquent\Model as Eloquent;
 
 class Day extends Eloquent

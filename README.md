@@ -1,3 +1,6 @@
+## Disclaimer
+This is forked from https://github.com/igaster/laravel-translate-eloquent.git
+
 ## Description
 [![Laravel](https://img.shields.io/badge/Laravel-orange.svg)](http://laravel.com)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://tldrlegal.com/license/mit-license)

@@ -1,6 +1,6 @@
 {
-  "name": "igaster/laravel-translate-eloquent",
-  "description": "Description",
+  "name": "ianvizarra/laravel-translate-eloquent",
+  "description": "This is forked from https://github.com/igaster/laravel-translate-eloquent.git",
   "keywords": [
     "laravel",
     "package",
@@ -9,24 +9,24 @@
     "translate-models"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/igaster/laravel-translate-eloquent.git",
+  "homepage": "https://github.com/ianvizarra/laravel-translate-eloquent",
   "authors": [
     {
-      "name": "Giannis Gasteratos",
-      "email": "igasteratos@gmail.com"
+      "name": "Ian Vizarra",
+      "email": "ian.vizarra@gmail.com"
     }
   ],
   "require": {
-    "illuminate/contracts": "~5.1 | ^6.0"
+    "illuminate/contracts": "^7.0"
   },
   "require-dev": {
-    "orchestra/testbench": "~4.0",
-    "phpunit/phpunit": "^8.0"
+    "orchestra/testbench": "^5.1",
+    "phpunit/phpunit": "^8.5"
   },
   "autoload": {
     "psr-4": {
-      "igaster\\TranslateEloquent\\": "src/",
-      "igaster\\TranslateEloquent\\Tests\\": "tests/"
+      "IanVizarra\\TranslateEloquent\\": "src/",
+      "IanVizarra\\TranslateEloquent\\Tests\\": "tests/"
     }
   },
   "minimum-stability": "stable"

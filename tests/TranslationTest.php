@@ -1,13 +1,13 @@
 <?php
 
-namespace igaster\TranslateEloquent\Tests;
+namespace IanVizarra\TranslateEloquent\Tests;
 
-use igaster\TranslateEloquent\Translations;
-use igaster\TranslateEloquent\Translation;
-use igaster\TranslateEloquent\Exceptions\KeyNotTranslatable;
-use igaster\TranslateEloquent\Exceptions\TranslationNotFound;
+use IanVizarra\TranslateEloquent\Translations;
+use IanVizarra\TranslateEloquent\Translation;
+use IanVizarra\TranslateEloquent\Exceptions\KeyNotTranslatable;
+use IanVizarra\TranslateEloquent\Exceptions\TranslationNotFound;
 
-use igaster\TranslateEloquent\Tests\Models\Day;
+use IanVizarra\TranslateEloquent\Tests\Models\Day;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Schema;

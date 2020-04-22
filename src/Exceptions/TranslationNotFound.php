@@ -1,4 +1,4 @@
-<?php namespace igaster\TranslateEloquent\Exceptions;
+<?php namespace IanVizarra\TranslateEloquent\Exceptions;
 
 class TranslationNotFound extends \Exception
 {
